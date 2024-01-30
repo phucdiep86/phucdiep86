@@ -1,6 +1,6 @@
 ## About me
 
-I am a student at the _LSE_ studying <Finance & Economics >.
+I am a student at the _LSE_ studying Finance & Economics.
 
 I will use this GitHub profile to showcase my data science skills.
 
@@ -8,5 +8,5 @@ I will use this GitHub profile to showcase my data science skills.
 
 - Python 
 - Data Science
-- < >
+- 
 
